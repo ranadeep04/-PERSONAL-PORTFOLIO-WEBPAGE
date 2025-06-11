@@ -14,3 +14,4 @@ DESCRIPTION: The task of creating a personal portfolio website, as illustrated i
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/ee0ce105-6992-4cdd-a790-9af758bc0c4c)
